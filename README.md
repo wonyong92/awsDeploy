@@ -1,2 +1,1 @@
-# awsDeploy
-aws deploy 1st pair project
+# be-sprint-deployment
